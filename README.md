@@ -81,57 +81,26 @@ A high-level summary of test execution results, including the number of test cas
 Provides recommendations for improvement based on findings.
 ### 🐞 Key Bugs Identified
 
-Bug ID
+# Bug Report Table
 
-Feature
+| Bug ID  | Feature              | Description                                  | Severity | Status |
+|---------|----------------------|----------------------------------------------|----------|--------|
+| BUG-001 | Wishlist Functionality | Wishlist button missing for some products.  | High     | Open   |
+| BUG-002 | Checkout Process      | Promo code field not visible on checkout page. | Medium  | Open   |
+| BUG-003 | UI Responsiveness     | Layout issues on mobile devices.            | High     | Open   |
 
-Description
-
-Severity
-
-Status
-
-BUG-001
-
-Wishlist
-
-Wishlist button not appearing for some products
-
-High
-
-Open
-
-BUG-002
-
-Checkout
-
-Promo code field missing on the checkout page
-
-Medium
-
-Open
-
-BUG-003
-
-UI Responsiveness
-
-Layout misalignment on smaller screens
-
-High
-
-Open
 
 ### ✨ Highlights
 
-Page Object Model (POM): Implemented for better test maintainability and reusability.
+- **Page Object Model (POM)**: Implemented for better test maintainability and reusability.
 
-Comprehensive Test Coverage: Functional, non-functional, UI, and regression testing.
+- **Comprehensive Test Coverage**: Functional, non-functional, UI, and regression testing.
 
-Cross-Device Testing: Ensured a seamless experience across desktops, tablets, and mobile devices.
+- **Cross-Device Testing**: Ensured a seamless experience across desktops, tablets, and mobile devices.
 
-Bug Identification: Documented critical issues to assist the development team in prioritizing fixes.
+- Bug Identification: Documented critical issues to assist the development team in prioritizing fixes.
 
-Detailed Documentation: Includes essential test artifacts such as the Test Plan, Test Summary, and Bug Report for transparency.
+- Detailed Documentation: Includes essential test artifacts such as the Test Plan, Test Summary, and Bug Report for transparency.
 
 ### 📝 Conclusion
 
@@ -141,9 +110,9 @@ Identified bugs have been reported and shared with the development team for reso
 
 ### 🚀 Future Enhancements
 
-Expanding test coverage to include more non-functional tests such as performance and security.
+- Expanding test coverage to include more non-functional tests such as performance and security.
 
-Integrating test execution into a Continuous Integration (CI) pipeline for automated test execution with every code change.
+- Integrating test execution into a Continuous Integration (CI) pipeline for automated test execution with every code change.
 
-Adding more complex test cases to cover edge scenarios and multi-step workflows.
+- Adding more complex test cases to cover edge scenarios and multi-step workflows.
 
