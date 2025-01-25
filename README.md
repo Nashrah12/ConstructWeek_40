@@ -1,4 +1,3 @@
-# ConstructWeek_40
 ## Puma Website Automation Testing Project - Tested with Cypress
 ### 📌 Project Overview
 
