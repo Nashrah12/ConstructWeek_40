@@ -79,16 +79,6 @@ A structured bug report documenting identified issues with details such as bug I
 A high-level summary of test execution results, including the number of test cases passed, failed, and skipped.
 
 Provides recommendations for improvement based on findings.
-### 🐞 Key Bugs Identified
-
-# Bug Report Table
-
-| Bug ID  | Feature              | Description                                  | Severity | Status |
-|---------|----------------------|----------------------------------------------|----------|--------|
-| BUG-001 | Wishlist Functionality | Wishlist button missing for some products.  | High     | Open   |
-| BUG-002 | Checkout Process      | Promo code field not visible on checkout page. | Medium  | Open   |
-| BUG-003 | UI Responsiveness     | Layout issues on mobile devices.            | High     | Open   |
-
 
 ### ✨ Highlights
 
